@@ -1,0 +1,5 @@
+<meta>
+	<script type="client">fps.nut</script>
+	<script type="server">ebrp.nut</script>
+	<script type="server">tp.nut</script>
+</meta>

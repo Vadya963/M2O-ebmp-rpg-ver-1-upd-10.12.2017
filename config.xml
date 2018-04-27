@@ -1,0 +1,14 @@
+<settings>
+    <hostname>EBMP-RP [RUSSIAN] || MAFIA 2 ONLINE RC4</hostname>
+    <serverip />
+    <port>27015</port>
+    <maxplayers>50</maxplayers>
+    <weburl>www.mafia2-online.com</weburl>
+    <password />
+    <modules />
+    <resources>
+        <resource>spawncar</resource>
+        <resource>ebmp</resource>
+    </resources>
+    <serverkey />
+</settings>
